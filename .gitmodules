@@ -1,0 +1,33 @@
+[submodule "catkin_ws/src/drone_perception"]
+	path = catkin_ws/src/drone_perception
+	url = git@github.com:ARG-NCTU/drone_perception.git
+[submodule "catkin_ws/src/drone_controller"]
+	path = catkin_ws/src/drone_controller
+	url = https://github.com/ARG-NCTU/drone_controller
+[submodule "catkin_ws/src/drone_teleop"]
+	path = catkin_ws/src/drone_teleop
+	url = https://github.com/ARG-NCTU/drone_teleop
+[submodule "catkin_ws/src/drone_navigation"]
+	path = catkin_ws/src/drone_navigation
+	url = git@github.com:ARG-NCTU/drone_navigation.git
+[submodule "catkin_ws/src/interbotix_arm"]
+	path = catkin_ws/src/interbotix_arm
+	url = git@github.com:ARG-NCTU/interbotix_arm.git
+[submodule "Firmware"]
+	path = Firmware
+	url = git@github.com:ARG-NCTU/PX4-Autopilot.git
+[submodule "catkin_ws/src/geometry2"]
+	path = catkin_ws/src/geometry2
+	url = git@github.com:ARG-NCTU/geometry2.git
+[submodule "catkin_ws/src/bt_execution"]
+	path = catkin_ws/src/bt_execution
+	url = git@github.com:ARG-NCTU/bt_execution.git
+[submodule "catkin_ws/src/bt_prompt"]
+	path = catkin_ws/src/bt_prompt
+	url = git@github.com:ARG-NCTU/bt_prompt.git
+[submodule "catkin_ws/src/behavior_tree_extra"]
+	path = catkin_ws/src/behavior_tree_extra
+	url = git@github.com:ARG-NCTU/behavior_tree_extra.git
+[submodule "catkin_ws/src/behavior_tree_msgs"]
+	path = catkin_ws/src/behavior_tree_msgs
+	url = git@github.com:ARG-NCTU/behavior_tree_msgs.git
