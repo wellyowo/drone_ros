@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<sdf version="1.5">
+  <model name="wooden_box">
+    <pose>0 0 0 0 0 0</pose>
+    <link name="link">
+      <collision name="collision">
+        <pose>0 0 0 0 0 0</pose>
+        <geometry>
+          <mesh>
+            <uri>file://wooden_box/meshes/wooden_box_v1.obj</uri>
+          </mesh>
+        </geometry>
+      </collision>
+      <visual name="visual">
+        <pose>0 0 0 0 0 0 </pose>
+        <geometry>
+          <mesh>
+            <uri>file://wooden_box/meshes/wooden_box_v1.obj</uri>
+          </mesh>
+        </geometry>
+      </visual>
+      <inertial>
+        <mass>10</mass>
+      </inertial>
+    </link>
+  </model>
+</sdf>
