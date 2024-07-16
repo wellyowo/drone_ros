@@ -39,3 +39,5 @@ utils/*.png
 
 rl/ppo/logs/
 rl/ppo/tb_ppo/
+
+drone_gazebo/models/sanxiantai_bridge/meshes/*
